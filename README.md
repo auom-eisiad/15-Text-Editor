@@ -1,7 +1,6 @@
 # Just Another Text Editor
 
-Website: URL
-![Screenshot](assets/images/png)
+![Screenshot](client/src/images/page.png)
 
 ## Description
 
